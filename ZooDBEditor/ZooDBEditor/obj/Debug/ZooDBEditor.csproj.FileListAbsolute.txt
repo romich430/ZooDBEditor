@@ -1,0 +1,15 @@
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\bin\Debug\ZooDBEditor.exe.config
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\bin\Debug\ZooDBEditor.exe
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\bin\Debug\ZooDBEditor.pdb
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.csproj.AssemblyReference.cache
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.csproj.SuggestedBindingRedirects.cache
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.Properties.Resources.resources
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.SplashScreen.resources
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.csproj.GenerateResource.cache
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.csproj.CoreCompileInputs.cache
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.exe
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.pdb
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.Auth.resources
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.DbEditor.resources
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.TableLayoutForm.resources
+D:\WF_labs\Lab13-16\ZooDBEditor\ZooDBEditor\obj\Debug\ZooDBEditor.RecordLayoutForm.resources
